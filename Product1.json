@@ -1,0 +1,10 @@
+{
+    "fields": 
+    [
+        {
+            "name": "string_field0", 
+            "type": "STRING", 
+            "mode": "NULLABLE"
+        }
+    ]
+ }
